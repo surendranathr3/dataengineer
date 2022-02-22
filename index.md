@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Last Mile Routing Research Challenge - MIT
 
-You can use the [editor on GitHub](https://github.com/surendranathr3/dataengineer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Problem Statement - Given the delivery stops and their metadata, generate route sequences that match experienced driver behavior closely.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Description
 
-### Markdown
+Route Sequences: List of all stops and their lat-long, distance matrices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Statistical Analysis
+## Data Visualization
+### Baseline model
 
 - Bulleted
 - List
